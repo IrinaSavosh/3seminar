@@ -1,1 +1,3 @@
 ## Командs GIT
+
+git init
